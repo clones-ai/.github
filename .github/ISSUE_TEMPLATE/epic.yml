@@ -1,0 +1,10 @@
+name: New epic
+description: Create an epic
+labels: ["epic"]
+body:
+  - type: textarea
+    attributes: 
+      label: Describe the area
+      placeholder: "A clear and concise description of what the area of the epic is."
+    validations:
+      required: true
