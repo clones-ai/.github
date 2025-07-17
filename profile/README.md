@@ -1,5 +1,3 @@
-# The Vision
-
 CLONES is building the next frontier of automation : \
 \
 **"A world where anyone can train, tokenize, and execute their own digital agent capable of replicating anything a human can do on a computer."**
