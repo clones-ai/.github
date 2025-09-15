@@ -1,13 +1,13 @@
-CLONES is building the next frontier of automation : \
-\
-**"A world where anyone can train, tokenize, and execute their own digital agent capable of replicating anything a human can do on a computer."**
+# CLONES
 
-This marks the evolution from **LLMs (Large Language Models) to VLMs (Vision Large Action Models)** — from _thinking_ agents to _doing_ agents. While AI can already write, summarize, and suggest, **Computer Use Agents (CUAs) can now act**, replicating entire human workflows across desktop environments with superhuman precision and 24/7 availability.
+CLONES is building the next frontier of automation:
 
-Every person, every profession will be able to **clone their know-how** into a digital agent that works for them, 24/7, offering services, improving productivity, and powering the next generation of the AI workforce.
+"A world where anyone can capture their digital expertise, tokenize it, and trade it as training data — creating liquid markets for human knowledge."
 
-Our mission is to democratize access to this technology
+This marks the evolution from assistants that only think to agents that actually do. While traditional AI models can write, summarize and suggest, Computer-Use Agents (CUAs) can now act — navigating interfaces, executing workflows and automating entire tasks with precision and 24/7 availability.
+
+For the first time, human demonstrations of computer use become valuable assets. Every person, every profession will be able to transform their know-how into tokenized datasets that power AI agents, creating new sources of income, productivity, and opportunity in the emerging data economy.
+
+Our mission is to democratize access to this technology by decentralizing the data layer itself — ensuring that those who create the expertise also own and profit from it.
 
 More info 👉🏼 https://clones.gitbook.io/clones.docs/
-
-**Human-like agents trained by humans, for humans.**
