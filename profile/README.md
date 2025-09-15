@@ -11,3 +11,5 @@ For the first time, human demonstrations of computer use become valuable assets.
 Our mission is to democratize access to this technology by decentralizing the data layer itself — ensuring that those who create the expertise also own and profit from it.
 
 More info 👉🏼 https://clones.gitbook.io/clones.docs/
+
+Data trained by humans, for AI.
